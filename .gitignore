@@ -1,0 +1,58 @@
+# 依赖目录
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# 构建输出
+dist/
+build/
+merged-docs/
+
+# 临时文件
+.antd-temp/
+temp/
+tmp/
+*.tmp
+
+# 日志文件
+logs/
+*.log
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# 编辑器和IDE文件
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# 环境变量文件
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 测试覆盖率报告
+coverage/
+.nyc_output/
+
+# 其他
+.cache/
+.npm/
+.eslintcache
+.node_repl_history 

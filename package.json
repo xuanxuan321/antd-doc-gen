@@ -1,0 +1,42 @@
+{
+  "name": "antd-doc-gen",
+  "version": "1.0.0",
+  "description": "CLI tool to generate docs from any Ant Design style component library",
+  "main": "index.js",
+  "bin": {
+    "antd-doc-gen": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "antd",
+    "ant-design",
+    "documentation",
+    "doc-generator",
+    "component-library",
+    "cli"
+  ],
+  "files": [
+    "bin/",
+    "lib/",
+    "README.md"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.2.0",
+    "commander": "^9.0.0",
+    "chalk": "^4.1.2",
+    "simple-git": "^3.16.0",
+    "ora": "^5.4.1",
+    "rimraf": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuanxuan321/antd-doc-gen"
+  }
+}
