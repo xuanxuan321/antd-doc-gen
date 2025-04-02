@@ -78,4 +78,4 @@ antd-doc-gen -d -r https://github.com/ant-design/ant-design-mobile
 - 任何使用类似文档结构的组件库，要求：
   - 组件文档在 components 或 src/components 目录下
   - 使用 index.md、index.zh.md 或 index.zh-CN.md 作为文档入口
-  - 使用 code 标签引用示例代码
+  - 使用 code 标签引用示例代码 -
