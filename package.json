@@ -1,6 +1,6 @@
 {
   "name": "antd-doc-gen",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "CLI tool to generate docs from any Ant Design style component library",
   "main": "index.js",
   "bin": {
